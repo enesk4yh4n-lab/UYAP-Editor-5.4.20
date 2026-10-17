@@ -30,3 +30,5 @@ Resmi bir UYAP guncellemesi degildir; bu bilgisayara uygulanan yerel uyarlamadir
 
 Java --add-opens belgesi:
 https://docs.oracle.com/en/java/javase/25/migrate/migrating-jdk-8-later-jdk-releases.html
+Resmi indirme linki https://uyap.gov.tr/UYAP-Editor
+indirme linkinden indirdiğinizde hata verdiğinde yüklediğim dosyaları C:\Uyap\Uyap Kelime Islemci dosya yoluna atarsanız sorunsuz şekilde çalışacaktır.
