@@ -20,15 +20,11 @@ Dogrulama:
 - Eski XStream, sun.misc.Unsafe icin kullanimdan kaldirma uyarisi veriyor.
   Bu uyumluluk duzeltmesi kutuphaneyi modernlestirmez ve Java 25 sonrasi garanti vermez.
 
-Geri alma:
-1. UYAP editorlerini kapatin.
-2. Yukaridaki yedek klasordeki dort .ini dosyasini ve editor_lib.jar dosyasini
-   C:\Uyap\Uyap Kelime Islemci klasorune geri kopyalayin.
-
 UYAP guncelleyicisi JAR veya ayarlari degistirirse bu duzeltme kaybolabilir.
 Resmi bir UYAP guncellemesi degildir; bu bilgisayara uygulanan yerel uyarlamadir.
 
 Java --add-opens belgesi:
 https://docs.oracle.com/en/java/javase/25/migrate/migrating-jdk-8-later-jdk-releases.html
+
 Resmi indirme linki https://uyap.gov.tr/UYAP-Editor
 indirme linkinden indirdiğinizde hata verdiğinde yüklediğim dosyaları C:\Uyap\Uyap Kelime Islemci dosya yoluna atarsanız sorunsuz şekilde çalışacaktır.
